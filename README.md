@@ -23,3 +23,10 @@ This analysis was conducted to answer the following business questions:
 5. Is revenue evenly distributed across customers, or is it driven by a small group of high-value customers?
 
 6. Which products experience the highest return activity, and how much revenue is lost through refunds?
+
+## Dataset Overview
+
+The dataset contains transactional sales records from an international online retail company. 
+It captures information about the products customers purchased, including the quantity bought, the price paid, and the country from which the order originated.
+Each row in the dataset represents a single product line within an invoice rather than an entire order. As a result, a single invoice may appear multiple times if a customer purchased several different products within the same transaction.
+The data covers transactions made between December 2010 and December 2011.
