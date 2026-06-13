@@ -1,6 +1,6 @@
 # Customer-Retention-and-Revenue-Driver-Analysis
 
-## Business Problem
+## Project Background
 
 An international online retailer wants to understand the factors driving revenue growth and long-term business performance.
 Management is interested in determining whether revenue is primarily driven by customer retention, product performance, 
