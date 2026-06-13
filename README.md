@@ -30,3 +30,14 @@ The dataset contains transactional sales records from an international online re
 It captures information about the products customers purchased, including the quantity bought, the price paid, and the country from which the order originated.
 Each row in the dataset represents a single product line within an invoice rather than an entire order. As a result, a single invoice may appear multiple times if a customer purchased several different products within the same transaction.
 The data covers transactions made between December 2010 and December 2011.
+
+### Key Variables
+
+- **InvoiceNo** – Unique identifier for each transaction. Some invoiceNo starts with C. This means that the order was cancelled.
+- **StockCode** – Unique product code assigned to each item.
+- **Description** – Name or description of the product purchased.
+- **Quantity** – Number of units purchased in each transaction. Quantity with negative number represents returned products.
+- **InvoiceDate** – Date and time when the transaction occurred.
+- **UnitPrice** – Selling price per unit of the product.
+- **CustomerID** – Unique identifier assigned to each customer.
+- **Country** – Country where the customer is located.
